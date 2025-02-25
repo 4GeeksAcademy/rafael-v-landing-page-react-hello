@@ -2,7 +2,7 @@ import React from "react";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
-import Nabvar from "./nabvar.jsx";
+import Navbar from "./navbar.jsx";
 import Jumbotron from "./jumbotron.jsx";
 import Card from "./card.jsx";
 import Footer from "./footer.jsx";
@@ -11,7 +11,7 @@ import Footer from "./footer.jsx";
 const Home = () => {
 	return (
 		<div className="text-center">
-			<Nabvar />
+			<Navbar/>
 			<Jumbotron />
 			<div className="container">
 				<div className="row">

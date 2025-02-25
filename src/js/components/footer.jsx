@@ -8,7 +8,7 @@ const Footer = () => {
 
 
             <div className="text-center p-4 text-white" style={{backgroundColor: 'black'}}>
-                © 2021 Copyright:
+                ©Copyright Your Website 2019
                 
             </div>
         </div>
